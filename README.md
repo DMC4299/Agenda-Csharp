@@ -1,1 +1,2 @@
-# Agenda-Csharp
+# Agenda de Contactos
+El proyecto consiste en una aplicación de consola que permite gestionar una agenda de contactos personales. El objetivo principal es crear, mostrar, actualizar y eliminar contactos, todo ello almacenado en un archivo JSON para su persistencia. Este sistema es ideal para aprender conceptos básicos de manejo de listas, operaciones CRUD (crear, leer, actualizar, eliminar) y manipulación de archivos en C#.
