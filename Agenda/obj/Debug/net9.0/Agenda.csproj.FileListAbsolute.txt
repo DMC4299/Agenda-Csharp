@@ -1,0 +1,28 @@
+D:\Papeles\Programacion\Proyectos\Agenda\Agenda\bin\Debug\net9.0\Agenda.exe
+D:\Papeles\Programacion\Proyectos\Agenda\Agenda\bin\Debug\net9.0\Agenda.deps.json
+D:\Papeles\Programacion\Proyectos\Agenda\Agenda\bin\Debug\net9.0\Agenda.runtimeconfig.json
+D:\Papeles\Programacion\Proyectos\Agenda\Agenda\bin\Debug\net9.0\Agenda.dll
+D:\Papeles\Programacion\Proyectos\Agenda\Agenda\bin\Debug\net9.0\Agenda.pdb
+D:\Papeles\Programacion\Proyectos\Agenda\Agenda\obj\Debug\net9.0\Agenda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Papeles\Programacion\Proyectos\Agenda\Agenda\obj\Debug\net9.0\Agenda.AssemblyInfoInputs.cache
+D:\Papeles\Programacion\Proyectos\Agenda\Agenda\obj\Debug\net9.0\Agenda.AssemblyInfo.cs
+D:\Papeles\Programacion\Proyectos\Agenda\Agenda\obj\Debug\net9.0\Agenda.csproj.CoreCompileInputs.cache
+D:\Papeles\Programacion\Proyectos\Agenda\Agenda\obj\Debug\net9.0\Agenda.dll
+D:\Papeles\Programacion\Proyectos\Agenda\Agenda\obj\Debug\net9.0\refint\Agenda.dll
+D:\Papeles\Programacion\Proyectos\Agenda\Agenda\obj\Debug\net9.0\Agenda.pdb
+D:\Papeles\Programacion\Proyectos\Agenda\Agenda\obj\Debug\net9.0\Agenda.genruntimeconfig.cache
+D:\Papeles\Programacion\Proyectos\Agenda\Agenda\obj\Debug\net9.0\ref\Agenda.dll
+C:\xampp\htdocs\Proyectos\Agenda C#\Agenda\bin\Debug\net9.0\Agenda.exe
+C:\xampp\htdocs\Proyectos\Agenda C#\Agenda\bin\Debug\net9.0\Agenda.deps.json
+C:\xampp\htdocs\Proyectos\Agenda C#\Agenda\bin\Debug\net9.0\Agenda.runtimeconfig.json
+C:\xampp\htdocs\Proyectos\Agenda C#\Agenda\bin\Debug\net9.0\Agenda.dll
+C:\xampp\htdocs\Proyectos\Agenda C#\Agenda\bin\Debug\net9.0\Agenda.pdb
+C:\xampp\htdocs\Proyectos\Agenda C#\Agenda\obj\Debug\net9.0\Agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Proyectos\Agenda C#\Agenda\obj\Debug\net9.0\Agenda.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Proyectos\Agenda C#\Agenda\obj\Debug\net9.0\Agenda.AssemblyInfo.cs
+C:\xampp\htdocs\Proyectos\Agenda C#\Agenda\obj\Debug\net9.0\Agenda.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Proyectos\Agenda C#\Agenda\obj\Debug\net9.0\Agenda.dll
+C:\xampp\htdocs\Proyectos\Agenda C#\Agenda\obj\Debug\net9.0\refint\Agenda.dll
+C:\xampp\htdocs\Proyectos\Agenda C#\Agenda\obj\Debug\net9.0\Agenda.pdb
+C:\xampp\htdocs\Proyectos\Agenda C#\Agenda\obj\Debug\net9.0\Agenda.genruntimeconfig.cache
+C:\xampp\htdocs\Proyectos\Agenda C#\Agenda\obj\Debug\net9.0\ref\Agenda.dll
